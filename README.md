@@ -11,6 +11,13 @@ https://github.com/ivanzusko/mostly-adequate-guide-uk - Mostly adequate guide to
 https://understandinges6.denysdovhan.com/ Understanding ECMAScript 6, __100% translated__
 
 ## Fiction
+
+https://www.readinga-z.com/worldlanguages/ukrainian/leveled-books/ - Children's books, with English and Ukrainian translations, for teaching
+
+https://www.fromrussia.com/books?book_language=50 - Many books, translated into Ukrainian
+
+http://ababahalamaha.com.ua/en/Main_Page - Many books, such as Harry Potter series, translated into Ukrainian
+
 ## Law
 ## Medicine
 ## Art
